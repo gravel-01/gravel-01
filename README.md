@@ -44,7 +44,6 @@
 ### 📊 GitHub 数据统计 (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gravel-01&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravel-01&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=sgravel-01&theme=xcode" /> 
 </div>
+
