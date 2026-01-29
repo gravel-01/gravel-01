@@ -42,11 +42,6 @@
     </div>
 
 ---
-
-### 🌎️使用语言统计（Language）
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravel-01&langs_count=8)
----
 ### 📊 GitHub 数据统计 (Stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravel-01)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gravel-01&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
