@@ -26,9 +26,9 @@
 ### 👨‍💻 关于我 (About Me)
 
 - 🔭 我目前正在开发 **City-Outskirts-Tour-Agent
-，一个简单的城市周边游玩规划的agent**
+，一个简单的React agent demo**
 - 🌱 我正在学习 **RAG、LLM、RL**
-- 👯 我希望能在这个方向上进行协作： **开发有趣的agent应用**
+- 👯 我希望能在这个方向上进行协作： **强化学习，agent应用**
 - 📫 如何联系我： **hdl0105@foxmail.com**
 
 ---
