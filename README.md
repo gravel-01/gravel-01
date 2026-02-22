@@ -39,6 +39,7 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 	<img src="https://img.shields.io/badge/RL-F05032?style=flat&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flask-F05030?style=flat&logo=git&logoColor=white" />
     </div>
 
 ---
