@@ -58,10 +58,5 @@
 
 ---
 
-### 📊 GitHub 数据统计 (Stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gravel-01&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravel-01&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
